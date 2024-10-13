@@ -24,4 +24,3 @@ BikeMarket is an interactive online platform designed for buying and selling new
 - **Bike Catalog**: A list of available models with filtering and sorting options based on various criteria.
 - **Product Page**: Detailed information about each bike, including images, technical specifications, and reviews.
 - **Inquiry Form**: Allows users to send inquiries about a selected bike model, general questions, or submit a buyback form to propose selling their bike.
-- **Admin Panel**: Manage products, categories, and view and respond to user inquiries.
