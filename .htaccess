@@ -1,0 +1,10 @@
+<IFModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^(.*)$ public/$1 [L]
+</IFModule>
+#Wersja PHP zmieniona: 2021-08-02 08:33:13
+AddHandler application/x-httpd-php74 php
+#Wersja PHP zmieniona: 2024-04-27 05:55:11
+AddHandler application/x-httpd-php80 php 
+#Wersja PHP zmieniona: 2024-04-27 05:56:24
+AddHandler application/x-httpd-php80 php 

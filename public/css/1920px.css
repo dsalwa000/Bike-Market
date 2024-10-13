@@ -1,0 +1,123 @@
+@media (min-width: 1920px) {
+    :root {
+        /* General variables */
+        --max-width: 1920px;
+        --wanted-width: 1650px;
+        --distance-between: 30px;
+
+        /* Menu */
+        --sidenav-display: none;
+        --menu-icon-display: none;
+        --menu-mobile-display: none;
+        --menu-desktop-display: flex;
+        --logo-menu-width: 700px;
+        --menu-height: 220px;
+        --links-menu-distance: 40px;
+        --links-menu-font: Inter;
+        --links-menu-font-size: 40px;
+        --logo-margin-right: 93px;
+        --short-text-line-mobile: none;
+        --short-text-line-desktop: flex;
+
+        --picture-top-display: none;
+
+        /* Line */
+        --welcome-display: none;
+        --check-out-display: flex;
+        --line-height: 70px;
+        --line-font: Epilogue;
+        --line-font-size: 40px;
+        --line-text-weight: bold;
+
+        /* Slider */
+        --picture-distance: 50px;
+        --picture-size: 250px;
+        --picture-price-font-size: 24px;
+        --picture-description-font-size: 18px;
+        --arrow-size: 50px;
+        --arrow-picture-distance: 40px;
+        --slider-within-width: 1450px;
+        --slider-display: flex;
+
+        /* Searcher */
+        --column-menu-height: 151px;
+        --column-slide-height: 171px;
+        --drop-width: 450px;
+        --drop-height: 35px;
+        --drop-font-size: 16px;
+        --distance-range: 11px;
+        --distance-drop: 147px;
+        --search-button-width: 300px;
+        --search-button-height: 40px;
+        --search-button-font-size: 20px;
+        --search-button-padding: 6px;
+        --paginator-width: 350px;
+        --paginator-font-size: 24px;
+        --display-searcher-desktop: flex;
+        --display-searcher-middle: none;
+        --display-searcher-mobile: none;
+
+        /* Why us? */
+        --info-font-size: 32px;
+        --description-font-size: 20px;
+
+        /* PDF */
+        --pdf-desktop-display: flex;
+        --pdf-mobile-display: none;
+        --pdf-font: Epilogue;
+        --pdf-tex-align: center;
+        --download-the-pdf-text-width: var(--wanted-width);
+        --pdf-font-size: 40px;
+        --distance-pdf: 30px;
+        --download-pdf-image-width: 180px;
+
+        /* Contact */
+        --contact-font: Epilogue;
+        --contact-phone-font-size: 32px;
+        --form-font: Inter;
+        --send-mail-font-size: 40px;
+        --form-font-size: 20px;
+        --form-between: 20px;
+        --form-height: 50px;
+        --message-height: 130px;
+        --send-form-height: 70px;
+        --send-form-font-size: 32px;
+        --number-below-display: none;
+        --number-inline-display: flex;
+
+        --bike-market-text-container-display: none;
+
+        /* Last information */
+        --last-information-mobile-display: none;
+        --last-links-mobile-display: none;
+        --last-information-desktop-display: flex;
+        --logo-bottom-width: 500px;
+        --icon-font-size: 18px;
+        --icon-distance: 20px;
+        --sector-font-size: 24px;
+        --sector-distance: 140px;
+        --sector-distance-middle: 0;
+        --single-information-container-width: 300px;
+        --last-info-row-display: flex;
+        --last-info-column-display: none;
+
+        /* Empty space */
+        --empty-space-height: 80px;
+
+        /* Single bike */
+        --bike-site-desktop-display: flex;
+        --bike-site-mobile-display: none;
+        --show-bike-photo-width: 600px;
+        --table-height: 800px;
+        --table-width: 800px;
+        --color-odd-rows: #fafafb;
+        --color-even-rows: white;
+        --table-border: 1px #dee1e6 solid;
+        --table-font: Inter;
+        --icon-size: 90px;
+        --table-font-size: 32px;
+        --paginator-one-bike-width: 360px;
+        --paginator-font-size-single-bike: 24px;
+        --arrow-size-one-bike: 60px;
+    }
+}
