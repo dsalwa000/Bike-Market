@@ -2,7 +2,7 @@
 
 ## About BikeMarket
 
-BikeMarket is an interactive online platform designed for buying and selling new and used bikes. This project highlights my expertise in frontend, backend, and design. You can visit the website here: [BikeMarket](https://udamian.webd.pro). For a more detailed description, check out this [Canva table](https://bit.ly/bikeMarket).
+BikeMarket is an interactive online platform designed for buying and selling new and used bikes. This project highlights my expertise in frontend, backend, and design. You can visit the website here: [BikeMarket](https://newudam.webd.pro/). For a more detailed description, check out this [Canva table](https://bit.ly/bikeMarket).
 
 ## Technologies
 - **Frontend**: JavaScript, HTML, CSS
