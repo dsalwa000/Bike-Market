@@ -1,4 +1,4 @@
-<a align="center" href="https://newudam.webd.pro/"><img src="http://newudam.webd.pro/images/logo.png"></a>
+<a align="center" href="https://newudam.webd.pro/"><img src="http://udam.webd.pro/images/logo.png"></a>
 
 ## About BikeMarket
 
